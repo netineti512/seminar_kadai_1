@@ -19,6 +19,11 @@ $ python Euclidean_distance.py
 
 # scatter_plot_student.py
 1. write the following data as a scatter plot with matplotlib
+
+```scatter_plot_student.py
+$ python scatter_plot_student.py
+```
+
 ---------------------------------------------------------------
     年度	     オープンキャンパス参加者数(人）	志願者数（人）
     2014年度	 1452	                         3231
@@ -29,6 +34,4 @@ $ python Euclidean_distance.py
     2019年度	 3447	                         10913
 ---------------------------------------------------------------
 
-```scatter_plot_student.py
-$ python scatter_plot_student.py
-```
+
