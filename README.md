@@ -23,7 +23,6 @@ $ python Euclidean_distance.py
 ```scatter_plot_student.py
 $ python scatter_plot_student.py
 ```
-<br></br>
 
 ---------------------------------------------------------------
     年度	     オープンキャンパス参加者数(人）	志願者数（人）
