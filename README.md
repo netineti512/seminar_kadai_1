@@ -1,9 +1,11 @@
-・爆破.py
-
-① for loop with 100, display 1 to 100.
-② when number is a multiple of 3, it displays 「勉強したい」.
-③ when number is a multiple of 5, it displays 「就活したい」.
-③ whne number is a multiple of 15, it displays 「だいがく爆破したい」
+- Euclidean_distance.py
+    - for loop with 100, display 1 to 100.
+    - when number is a multiple of 3, it displays 「勉強したい」.
+    - when number is a multiple of 5, it displays 「就活したい」.
+    - whne number is a multiple of 15, it displays 「だいがく爆破したい」
+```Euclidean_distance.py
+$ python Euclidean_distance.py
+```
 
 
 
